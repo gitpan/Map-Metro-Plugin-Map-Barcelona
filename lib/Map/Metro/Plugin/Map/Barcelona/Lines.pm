@@ -1,7 +1,6 @@
-
 package Map::Metro::Plugin::Map::Barcelona::Lines;
 
-our $VERSION = '0.1002'; # VERSION
+our $VERSION = '0.1003'; # VERSION
 
 1;
 
@@ -236,6 +235,14 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 =head1 SEE ALSO
 
 L<Map::Metro::Plugin::Map::Barcelona>
+
+=begin HTML
+
+<style>
+h2[id^="Line-1:"]:before { content : ""; margin-right: 10px; border: 5px solid #e1393e; } h2[id^="Line-2:"]:before { content : ""; margin-right: 10px; border: 5px solid #992f9c; } h2[id^="Line-3:"]:before { content : ""; margin-right: 10px; border: 5px solid #4fbf48; } h2[id^="Line-4:"]:before { content : ""; margin-right: 10px; border: 5px solid #febd10; } h2[id^="Line-5:"]:before { content : ""; margin-right: 10px; border: 5px solid #317bc8; } h2[id^="Line-6:"]:before { content : ""; margin-right: 10px; border: 5px solid #847dc6; } h2[id^="Line-7:"]:before { content : ""; margin-right: 10px; border: 5px solid #ad5414; } h2[id^="Line-8:"]:before { content : ""; margin-right: 10px; border: 5px solid #e659b4; } h2[id^="Line-9:"]:before { content : ""; margin-right: 10px; border: 5px solid #f68429; } h2[id^="Line-10:"]:before { content : ""; margin-right: 10px; border: 5px solid #00adef; } h2[id^="Line-11:"]:before { content : ""; margin-right: 10px; border: 5px solid #9ed84c; } h2[id^="Funicular-de-Montjuc:"]:before { content : ""; margin-right: 10px; border: 5px solid #2f8f28; } h2[id^="Funicular-del-Tibidabo:"]:before { content : ""; margin-right: 10px; border: 5px solid #444444; } h2[id^="Tramvia-Blau:"]:before { content : ""; margin-right: 10px; border: 5px solid #0077dd; }
+</style>
+
+=end HTML
 
 =cut
 
