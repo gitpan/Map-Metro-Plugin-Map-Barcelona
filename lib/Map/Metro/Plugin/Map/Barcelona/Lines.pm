@@ -1,6 +1,6 @@
 package Map::Metro::Plugin::Map::Barcelona::Lines;
 
-our $VERSION = '0.1003'; # VERSION
+our $VERSION = '0.1004'; # VERSION
 
 1;
 
@@ -15,6 +15,13 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 =head1 LINES
 
 =head2 Line 1: Fondo → Hospital de Bellvitge [L1]
+
+=begin HTML
+
+<div style="background-color: #e1393e; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+
+=end HTML
+
 
     Fondo (L9)
     Santa Coloma
@@ -49,6 +56,13 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =head2 Line 2: Badalona Pompeu Fabra → Paral·lel [L2]
 
+=begin HTML
+
+<div style="background-color: #992f9c; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+
+=end HTML
+
+
     Badalona Pompeu Fabra
     Pep Ventura
     Gorg (L10)
@@ -69,6 +83,13 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
     Paral·lel (FM, L3)
 
 =head2 Line 3: Trinitat Nova → Zona Universitària [L3]
+
+=begin HTML
+
+<div style="background-color: #4fbf48; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+
+=end HTML
+
 
     Trinitat Nova (L4, L11)
     Roquetes
@@ -99,6 +120,13 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =head2 Line 4: La Pau → Trinitat Nova [L4]
 
+=begin HTML
+
+<div style="background-color: #febd10; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+
+=end HTML
+
+
     La Pau (L2)
     Besòs
     Besòs Mar
@@ -123,6 +151,13 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
     Trinitat Nova (L3, L11)
 
 =head2 Line 5: Cornellà Centre → Vall d'Hebron [L5]
+
+=begin HTML
+
+<div style="background-color: #317bc8; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+
+=end HTML
+
 
     Cornellà Centre
     Gavarra
@@ -153,6 +188,13 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =head2 Line 6: Catalunya → Reina Elisenda [L6]
 
+=begin HTML
+
+<div style="background-color: #847dc6; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+
+=end HTML
+
+
     Catalunya (L1, L3, L7)
     Provença (L7) [Diagonal: L3, L5]
     Gràcia (L7)
@@ -165,6 +207,13 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =head2 Line 7: Avinguda Tibidabo → Catalunya [L7]
 
+=begin HTML
+
+<div style="background-color: #ad5414; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+
+=end HTML
+
+
     Avinguda Tibidabo [Plaça Kennedy: TB]
     El Putxet
     Pàdua
@@ -174,6 +223,13 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
     Catalunya (L1, L3, L6)
 
 =head2 Line 8: Espanya → Molí Nou-Ciutat Cooperativa [L8]
+
+=begin HTML
+
+<div style="background-color: #e659b4; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+
+=end HTML
+
 
     Espanya (L1, L3)
     Magòria-La Campana
@@ -189,6 +245,13 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =head2 Line 9: Can Zam → La Sagrera [L9]
 
+=begin HTML
+
+<div style="background-color: #f68429; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+
+=end HTML
+
+
     Can Zam
     Singuerlín
     Església Major
@@ -201,6 +264,13 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =head2 Line 10: Gorg → La Sagrera [L10]
 
+=begin HTML
+
+<div style="background-color: #00adef; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+
+=end HTML
+
+
     Gorg (L2)
     La Salut
     Llefià
@@ -210,6 +280,13 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =head2 Line 11: Can Cuiàs → Trinitat Nova [L11]
 
+=begin HTML
+
+<div style="background-color: #9ed84c; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+
+=end HTML
+
+
     Can Cuiàs
     Ciutat Meridiana
     Torre Baró-Vallbona
@@ -218,15 +295,36 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =head2 Funicular de Montjuïc: Paral·lel → Parc de Montjuïc [FM]
 
+=begin HTML
+
+<div style="background-color: #2f8f28; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+
+=end HTML
+
+
     Paral·lel (L2, L3)
     Parc de Montjuïc
 
 =head2 Funicular del Tibidabo: Plaça del Doctor Andreu → Tibidabo [FT]
 
+=begin HTML
+
+<div style="background-color: #444444; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+
+=end HTML
+
+
     Plaça del Doctor Andreu (TB)
     Tibidabo
 
 =head2 Tramvia Blau: Plaça Kennedy → Plaça del Doctor Andreu [TB]
+
+=begin HTML
+
+<div style="background-color: #0077dd; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+
+=end HTML
+
 
     Plaça Kennedy [Avinguda Tibidabo: L7]
     Plaça del Doctor Andreu (FT)

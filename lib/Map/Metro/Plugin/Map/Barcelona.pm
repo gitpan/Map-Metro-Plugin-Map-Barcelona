@@ -2,7 +2,7 @@ use 5.14.0;
 
 package Map::Metro::Plugin::Map::Barcelona;
 
-our $VERSION = '0.1003'; # VERSION
+our $VERSION = '0.1004'; # VERSION
 
 use Moose;
 with 'Map::Metro::Plugin::Map';
