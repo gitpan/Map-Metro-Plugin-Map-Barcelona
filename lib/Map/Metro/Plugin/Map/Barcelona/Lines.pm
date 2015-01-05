@@ -1,6 +1,6 @@
 package Map::Metro::Plugin::Map::Barcelona::Lines;
 
-our $VERSION = '0.1004'; # VERSION
+our $VERSION = '0.1005'; # VERSION
 
 1;
 
@@ -18,7 +18,7 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =begin HTML
 
-<div style="background-color: #e1393e; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+<div style="background-color: #e1393e; margin-top: -23px; margin-left: 10px; height: 3px; width: 98%;"></div>
 
 =end HTML
 
@@ -58,7 +58,7 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =begin HTML
 
-<div style="background-color: #992f9c; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+<div style="background-color: #992f9c; margin-top: -23px; margin-left: 10px; height: 3px; width: 98%;"></div>
 
 =end HTML
 
@@ -86,7 +86,7 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =begin HTML
 
-<div style="background-color: #4fbf48; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+<div style="background-color: #4fbf48; margin-top: -23px; margin-left: 10px; height: 3px; width: 98%;"></div>
 
 =end HTML
 
@@ -122,7 +122,7 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =begin HTML
 
-<div style="background-color: #febd10; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+<div style="background-color: #febd10; margin-top: -23px; margin-left: 10px; height: 3px; width: 98%;"></div>
 
 =end HTML
 
@@ -154,7 +154,7 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =begin HTML
 
-<div style="background-color: #317bc8; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+<div style="background-color: #317bc8; margin-top: -23px; margin-left: 10px; height: 3px; width: 98%;"></div>
 
 =end HTML
 
@@ -190,7 +190,7 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =begin HTML
 
-<div style="background-color: #847dc6; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+<div style="background-color: #847dc6; margin-top: -23px; margin-left: 10px; height: 3px; width: 98%;"></div>
 
 =end HTML
 
@@ -209,7 +209,7 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =begin HTML
 
-<div style="background-color: #ad5414; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+<div style="background-color: #ad5414; margin-top: -23px; margin-left: 10px; height: 3px; width: 98%;"></div>
 
 =end HTML
 
@@ -226,7 +226,7 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =begin HTML
 
-<div style="background-color: #e659b4; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+<div style="background-color: #e659b4; margin-top: -23px; margin-left: 10px; height: 3px; width: 98%;"></div>
 
 =end HTML
 
@@ -247,7 +247,7 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =begin HTML
 
-<div style="background-color: #f68429; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+<div style="background-color: #f68429; margin-top: -23px; margin-left: 10px; height: 3px; width: 98%;"></div>
 
 =end HTML
 
@@ -266,7 +266,7 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =begin HTML
 
-<div style="background-color: #00adef; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+<div style="background-color: #00adef; margin-top: -23px; margin-left: 10px; height: 3px; width: 98%;"></div>
 
 =end HTML
 
@@ -282,7 +282,7 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =begin HTML
 
-<div style="background-color: #9ed84c; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+<div style="background-color: #9ed84c; margin-top: -23px; margin-left: 10px; height: 3px; width: 98%;"></div>
 
 =end HTML
 
@@ -297,7 +297,7 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =begin HTML
 
-<div style="background-color: #2f8f28; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+<div style="background-color: #2f8f28; margin-top: -23px; margin-left: 10px; height: 3px; width: 98%;"></div>
 
 =end HTML
 
@@ -309,7 +309,7 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =begin HTML
 
-<div style="background-color: #444444; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+<div style="background-color: #444444; margin-top: -23px; margin-left: 10px; height: 3px; width: 98%;"></div>
 
 =end HTML
 
@@ -321,7 +321,7 @@ Map::Metro::Plugin::Map::Barcelona::Lines - Detailed information about Map::Metr
 
 =begin HTML
 
-<div style="background-color: #0077dd; margin-top: -10px; margin-left: 10px; height: 5ps; width: 200px;"></div>
+<div style="background-color: #0077dd; margin-top: -23px; margin-left: 10px; height: 3px; width: 98%;"></div>
 
 =end HTML
 
