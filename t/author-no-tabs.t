@@ -16,6 +16,7 @@ use Test::NoTabs;
 
 my @files = (
     'lib/Map/Metro/Plugin/Map/Barcelona.pm',
+    'lib/Map/Metro/Plugin/Map/Barcelona/Lines.pm',
     't/basic.t'
 );
 

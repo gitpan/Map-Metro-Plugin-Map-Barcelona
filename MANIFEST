@@ -8,6 +8,7 @@ META.yml
 cpanfile
 dist.ini
 lib/Map/Metro/Plugin/Map/Barcelona.pm
+lib/Map/Metro/Plugin/Map/Barcelona/Lines.pm
 share/graphviz.conf
 share/map-barcelona.metro
 t/author-eof.t

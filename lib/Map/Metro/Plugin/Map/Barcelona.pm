@@ -2,7 +2,7 @@ use 5.14.0;
 
 package Map::Metro::Plugin::Map::Barcelona;
 
-our $VERSION = '0.1001'; # VERSION
+our $VERSION = '0.1002'; # VERSION
 
 use Moose;
 with 'Map::Metro::Plugin::Map';
@@ -47,6 +47,8 @@ As of 2015-jan-04 it contains:
 * Funicular del Tibidabo.  L<wikipedia|https://en.wikipedia.org/wiki/Funicular_del_Tibidabo>
 
 * Funicular de Montjuïc.  L<wikipedia|https://en.wikipedia.org/wiki/Funicular_de_Montju%C3%AFc>
+
+See <Map::Metro::Plugin::Map::Barcelona::Lines>.
 
 =head2 Notes
 
