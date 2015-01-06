@@ -1,5 +1,9 @@
 Revision history for Map-Metro-Plugin-Map-Barcelona
 
+0.1006 2015-01-06T13:46:12Z CET
+ [Documentation]
+ - Better layout on lines & stations, and other minor fixes.
+
 0.1005 2015-01-05T23:03:09Z CET
  [Documentation]
  - Now the line documentation has color?
